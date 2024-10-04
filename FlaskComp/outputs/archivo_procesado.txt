@@ -1,0 +1,691 @@
+COMPUESTA ACOPIO 3 - LA LEJIA-BV AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30242     273.86     0.48   ACOPIO 3 - LA LEJIA       BV      PUERTO BRISA
+  30402     68.59      0.12   ACOPIO 3 - LA LEJIA       BV      PUERTO BRISA
+  Total     342.45  
+
+COMPUESTA ALTO VIENTO-BV AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30107     195.28     0.34   ALTO VIENTO       BV      ACOPIO 3 - LA LEJIA
+  30241     181.83     0.32   ALTO VIENTO       BV      ACOPIO 3 - LA LEJIA
+  30401     209.22     0.36   ALTO VIENTO       BV      ACOPIO 3 - LA LEJIA
+  Total     586.33  
+
+COMPUESTA 1088-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030503   236.41     0.41      1088          T       LA PRADERA
+  Total     236.41  
+
+COMPUESTA 1091-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030498   519.44     0.9       1091          T       LA PRADERA
+  Total     519.44  
+
+COMPUESTA 165-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030504   184.46     0.32      165           T       LA PRADERA
+  Total     184.46  
+
+COMPUESTA 1916-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30377     212.67     0.37      1916          T       LA PRADERA
+ TZ030496   478.36     0.83      1916          T       LA PRADERA
+  Total     691.03  
+
+COMPUESTA 1934-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30378     411.68     0.72      1934          T       LA PRADERA
+  Total     411.68  
+
+COMPUESTA 2-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030501   289.60     0.5        2            T       LA PRADERA
+  Total     289.60  
+
+COMPUESTA 203-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30379     302.35     0.53      203           T       LA PRADERA
+ TZ030500   306.70     0.53      203           T       LA PRADERA
+  Total     609.05  
+
+COMPUESTA 217-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030499   452.69     0.79      217           T       LA PRADERA
+  Total     452.69  
+
+COMPUESTA 24-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030495   206.89     0.36       24           T       LA PRADERA
+  Total     206.89  
+
+COMPUESTA 3-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30382     117.16     0.2        3            T       LA PRADERA
+  Total     117.16  
+
+COMPUESTA 326-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30446     182.46     0.32      326           T       LOS VADOS 
+  Total     182.46  
+
+COMPUESTA 337-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30375     207.46     0.36      337           T       ACOPIO MINEX
+ TZ030493   315.21     0.55      337           T       ACOPIO MINEX
+  Total     522.67  
+
+COMPUESTA 339-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030492   261.95     0.46      339           T       ACOPIO MINEX
+  Total     261.95  
+
+COMPUESTA 546-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030497   320.99     0.56      546           T       LA PRADERA
+  Total     320.99  
+
+COMPUESTA 668-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030502   184.26     0.32      668           T       LA PRADERA
+  Total     184.26  
+
+COMPUESTA 873-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30381     159.24     0.28      873           T       ACOPIO MINEX
+  Total     159.24  
+
+COMPUESTA GUAYABO-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30380     266.17     0.46    GUAYABO         T       PATIO BONITO
+ TZ030505   410.19     0.71    GUAYABO         T       PATIO BONITO
+  Total     676.36  
+
+COMPUESTA LA ESMERALDA-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30444     243.58     0.42   LA ESMERALDA       T       LOS VADOS 
+  Total     243.58  
+
+COMPUESTA LAJAS-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30445     194.12     0.34     LAJAS          T       LOS VADOS 
+  Total     194.12  
+
+COMPUESTA ORQUIDEA GUAYABO-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030506   319.11     0.56   ORQUIDEA GUAYABO       T       PATIO BONITO
+  Total     319.11  
+
+COMPUESTA ORQUIDEA LEON -T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+ TZ030507   279.38     0.49   ORQUIDEA LEON        T       PATIO BONITO
+  Total     279.38  
+
+COMPUESTA TRES CANALES-T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30455     113.53     0.2    TRES CANALES       T       UREÑA, PABLARKA
+  Total     113.53  
+
+COMPUESTA UREÑA -T AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30376     644.05     1.12     UREÑA          T       ACOPIO MINEX
+ TZ030494   331.42     0.58     UREÑA          T       ACOPIO MINEX
+  Total     975.47  
+
+COMPUESTA 1875-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30126     348.47     0.61      1875        T 0X50    PUERTO CARBOSAN
+  30158     447.65     0.78      1875        T 0X50    TERMOGUAJIRA-DIBULLA
+  30232     550.79     0.96      1875        T 0X50    PUERTO CARBOSAN
+  30308     923.70     1.61      1875        T 0X50    PUERTO CARBOSAN
+  30386     311.87     0.54      1875        T 0X50    TERMOGUAJIRA-DIBULLA
+  30387    1374.82     2.39      1875        T 0X50    PUERTO CARBOSAN
+  30407     517.93     0.9       1875        T 0X50    PUERTO CARBOSAN
+  30441     480.47     0.84      1875        T 0X50    PUERTO CARBOSAN
+  Total    4955.70  
+
+COMPUESTA 337-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30145     484.32     0.84      337         T 0X50    ACOPIO MINEX
+  30289     272.16     0.47      337         T 0X50    ACOPIO MINEX
+  30429     335.13     0.58      337         T 0X50    ACOPIO MINEX
+  Total    1091.61  
+
+COMPUESTA ACOPIO MINEX-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30163     930.16     1.62   ACOPIO MINEX     T 0X50    PUERTO CARBOSAN
+  30384     622.57     1.08   ACOPIO MINEX     T 0X50    TERMOGUAJIRA-DIBULLA
+  Total    1552.73  
+
+COMPUESTA ACOPIO MINEX -T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30156     555.33     0.97   ACOPIO MINEX      T 0X50    TERMOGUAJIRA-DIBULLA
+  30310     482.51     0.84   ACOPIO MINEX      T 0X50    PUERTO CARBOSAN
+  Total    1037.84  
+
+COMPUESTA CARBOEX-PAJARITO-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30157     346.60     0.6    CARBOEX-PAJARITO     T 0X50    TERMOGUAJIRA-DIBULLA
+  30385     239.03     0.42   CARBOEX-PAJARITO     T 0X50    TERMOGUAJIRA-DIBULLA
+  30440     342.31     0.6    CARBOEX-PAJARITO     T 0X50    TERMOGUAJIRA-DIBULLA
+  Total     927.94  
+
+COMPUESTA DONJUANA-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30248     207.74     0.36    DONJUANA      T 0X50    TERMOGUAJIRA-DIBULLA
+  30343     34.75      0.06    DONJUANA      T 0X50    TERMOGUAJIRA-DIBULLA
+  Total     242.49  
+
+COMPUESTA LA LEJIA-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30239    1034.83     1.8     LA LEJIA      T 0X50    PUERTO CARBOSAN
+  30399     310.54     0.54    LA LEJIA      T 0X50    PUERTO CARBOSAN
+  Total    1345.37  
+
+COMPUESTA LA PRADERA-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30442     512.65     0.89   LA PRADERA     T 0X50    PUERTO CARBOSAN
+  Total     512.65  
+
+COMPUESTA LOS VADOS-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30092     517.08     0.9    LOS VADOS      T 0X50    PUERTO CARBOSAN
+  30172     477.31     0.83   LOS VADOS      T 0X50    PUERTO CARBOSAN
+  30257     238.16     0.41   LOS VADOS      T 0X50    TERMOGUAJIRA-DIBULLA
+  Total    1232.55  
+
+COMPUESTA PATIO BONITO-T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30159     103.12     0.18   PATIO BONITO     T 0X50    TERMOGUAJIRA-DIBULLA
+  30233     340.10     0.59   PATIO BONITO     T 0X50    PUERTO CARBOSAN
+  Total     443.22  
+
+COMPUESTA PATIO BONITO -T 0X50 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30309     550.04     0.96   PATIO BONITO      T 0X50    PUERTO CARBOSAN
+  30388    1098.47     1.91   PATIO BONITO      T 0X50    PUERTO CARBOSAN
+  30443     582.34     1.01   PATIO BONITO      T 0X50    PUERTO CARBOSAN
+  Total    2230.85  
+
+COMPUESTA LA PRADERA-T 0x10 AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30311     272.61     0.47   LA PRADERA     T 0x10    PUERTO CARBOSAN
+  30383     410.85     0.71   LA PRADERA     T 0x10    TERMOGUAJIRA-DIBULLA
+  Total     683.46  
+
+COMPUESTA 1028-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30224     209.68     0.36      1028        T ROM     LA PRADERA
+  30437     253.07     0.44      1028        T ROM     LA PRADERA
+  Total     462.75  
+
+COMPUESTA 1029-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30303     251.51     0.44      1029        T ROM     LA PRADERA
+  Total     251.51  
+
+COMPUESTA 1085-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30298     268.18     0.47      1085        T ROM     LA PRADERA
+  Total     268.18  
+
+COMPUESTA 1088-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30153     190.11     0.33      1088        T ROM     LA PRADERA
+  Total     190.11  
+
+COMPUESTA 109-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30433     268.05     0.47      109         T ROM     LA PRADERA
+  Total     268.05  
+
+COMPUESTA 1912-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30106     64.03      0.11      1912        T ROM      LA LEJIA 
+  30240     211.41     0.37      1912        T ROM      LA LEJIA 
+  30398     130.32     0.23      1912        T ROM      LA LEJIA 
+  Total     405.76  
+
+COMPUESTA 1916-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30432     246.93     0.43      1916        T ROM     LA PRADERA
+  Total     246.93  
+
+COMPUESTA 1930-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30291     169.22     0.29      1930        T ROM     ACOPIO MINEX
+  Total     169.22  
+
+COMPUESTA 1931-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30294     151.30     0.26      1931        T ROM     ACOPIO MINEX
+  Total     151.30  
+
+COMPUESTA 1934-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30148    1162.38     2.02      1934        T ROM     LA PRADERA
+  30154     355.54     0.62      1934        T ROM     PATIO BONITO
+  30221     837.16     1.46      1934        T ROM     LA PRADERA
+  30225     477.37     0.83      1934        T ROM     PATIO BONITO
+  30296     936.83     1.63      1934        T ROM     LA PRADERA
+  Total    3769.28  
+
+COMPUESTA 1953-LAS ISABELLAS-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30099     263.88     0.46   1953-LAS ISABELLAS     T ROM      DONJUANA 
+  30244     148.44     0.26   1953-LAS ISABELLAS     T ROM      DONJUANA 
+  30340     238.64     0.42   1953-LAS ISABELLAS     T ROM      DONJUANA 
+  Total     650.96  
+
+COMPUESTA 1973-RIVIERA-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30100     634.78     1.1    1973-RIVIERA     T ROM      DONJUANA 
+  30243     181.41     0.32   1973-RIVIERA     T ROM      DONJUANA 
+  Total     816.19  
+
+COMPUESTA 2-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30301     260.48     0.45       2          T ROM     LA PRADERA
+  30435     207.13     0.36       2          T ROM     LA PRADERA
+  Total     467.61  
+
+COMPUESTA 203-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30150     216.53     0.38      203         T ROM     LA PRADERA
+  30300     236.75     0.41      203         T ROM     LA PRADERA
+  Total     453.28  
+
+COMPUESTA 217-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30222     382.07     0.66      217         T ROM     LA PRADERA
+  30299     268.17     0.47      217         T ROM     LA PRADERA
+  30434     186.61     0.32      217         T ROM     LA PRADERA
+  Total     836.85  
+
+COMPUESTA 24-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30220     206.36     0.36       24         T ROM     LA PRADERA
+  30295     206.71     0.36       24         T ROM     LA PRADERA
+  Total     413.07  
+
+COMPUESTA 326-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30091     527.50     0.92      326         T ROM     LOS VADOS 
+  30256     372.76     0.65      326         T ROM     LOS VADOS 
+  30337     273.83     0.48      326         T ROM     LOS VADOS 
+  Total    1174.09  
+
+COMPUESTA 337-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30147     612.27     1.07      337         T ROM     ACOPIO MINEX
+  30219     203.81     0.35      337         T ROM     ACOPIO MINEX
+  30292     303.88     0.53      337         T ROM     ACOPIO MINEX
+  30431     209.30     0.36      337         T ROM     ACOPIO MINEX
+  Total    1329.26  
+
+COMPUESTA 339-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30146     314.01     0.55      339         T ROM     ACOPIO MINEX
+  30290     416.07     0.72      339         T ROM     ACOPIO MINEX
+  30430     340.65     0.59      339         T ROM     ACOPIO MINEX
+  Total    1070.73  
+
+COMPUESTA 546-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30149     204.50     0.36      546         T ROM     LA PRADERA
+  30297     234.14     0.41      546         T ROM     LA PRADERA
+  Total     438.64  
+
+COMPUESTA 668-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30151     286.77     0.5       668         T ROM     LA PRADERA
+  30223     335.97     0.58      668         T ROM     LA PRADERA
+  30302     346.00     0.6       668         T ROM     LA PRADERA
+  30436     267.05     0.46      668         T ROM     LA PRADERA
+  Total    1235.79  
+
+COMPUESTA 801-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30245     628.57     1.09      801         T ROM      DONJUANA 
+  30339     897.86     1.56      801         T ROM      DONJUANA 
+  Total    1526.43  
+
+COMPUESTA 917-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30304     144.23     0.25      917         T ROM     LA PRADERA
+  Total     144.23  
+
+COMPUESTA 918-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30152     182.10     0.32      918         T ROM     LA PRADERA
+  Total     182.10  
+
+COMPUESTA CAÑO DULCE-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30226     194.55     0.34   CAÑO DULCE     T ROM     PATIO BONITO
+  30438     245.88     0.43   CAÑO DULCE     T ROM     PATIO BONITO
+  Total     440.43  
+
+COMPUESTA GUAYABO-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30155     254.93     0.44    GUAYABO       T ROM     PATIO BONITO
+  30227     470.32     0.82    GUAYABO       T ROM     PATIO BONITO
+  30305     454.75     0.79    GUAYABO       T ROM     PATIO BONITO
+  30439     509.11     0.89    GUAYABO       T ROM     PATIO BONITO
+  Total    1689.11  
+
+COMPUESTA LA ESMERALDA-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30090     273.87     0.48   LA ESMERALDA     T ROM     LOS VADOS 
+  30255     565.40     0.98   LA ESMERALDA     T ROM     LOS VADOS 
+  30335     264.62     0.46   LA ESMERALDA     T ROM     LOS VADOS 
+  Total    1103.89  
+
+COMPUESTA LAJAS-T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30171     258.29     0.45     LAJAS        T ROM     LOS VADOS 
+  30336     331.43     0.58     LAJAS        T ROM     LOS VADOS 
+  Total     589.72  
+
+COMPUESTA UREÑA -T ROM AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30293     266.04     0.46     UREÑA        T ROM     ACOPIO MINEX
+  Total     266.04  
+
+COMPUESTA 1891-CARBOVEN N3-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30447     12.62      0.02   1891-CARBOVEN N3       TA      UREÑA, PABLARKA
+  Total     12.62   
+
+COMPUESTA 1906-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30138     78.83      0.14      1906          TA      PATIO CENTRO 2
+  30213     63.32      0.11      1906          TA      PATIO CENTRO 2
+  30280     94.96      0.17      1906          TA      PATIO CENTRO 2
+  30367     46.96      0.08      1906          TA      PATIO CENTRO 2
+  30423     63.55      0.11      1906          TA      PATIO CENTRO 2
+ TZ030487   95.16      0.17      1906          TA      PATIO CENTRO 2
+  Total     442.78  
+
+COMPUESTA 1989-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30371     166.43     0.29      1989          TA      PATIO CENTRO 2
+  30422     163.18     0.28      1989          TA      PATIO CENTRO 2
+  Total     329.61  
+
+COMPUESTA 676-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30247     178.74     0.31      676           TA       DONJUANA 
+  30342     45.48      0.08      676           TA       DONJUANA 
+  30400     112.91     0.2       676           TA       LA LEJIA 
+  Total     337.13  
+
+COMPUESTA CONTENTA-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30214     15.85      0.03    CONTENTA        TA      PATIO CENTRO 2
+  Total     15.85   
+
+COMPUESTA CONUCO-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30448     26.24      0.05     CONUCO         TA      UREÑA, PABLARKA
+  Total     26.24   
+
+COMPUESTA DONJUANA-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30216     281.03     0.49    DONJUANA        TA      PATIO CENTRO 2
+  30283     43.34      0.08    DONJUANA        TA      PATIO CENTRO 2
+  30368     34.38      0.06    DONJUANA        TA      PATIO CENTRO 2
+  Total     358.75  
+
+COMPUESTA EL RECREO-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30140     68.22      0.12   EL RECREO        TA      PATIO CENTRO 2
+  Total     68.22   
+
+COMPUESTA LA TIRITA-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30449     68.59      0.12   LA TIRITA        TA      UREÑA, PABLARKA
+  Total     68.59   
+
+COMPUESTA LORENZO 10-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30450     51.79      0.09   LORENZO 10       TA      UREÑA, PABLARKA
+  Total     51.79   
+
+COMPUESTA MINA CARBOVEN-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30451     53.57      0.09   MINA CARBOVEN       TA      UREÑA, PABLARKA
+  Total     53.57   
+
+COMPUESTA MINA QAR-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30452     238.46     0.41    MINA QAR        TA      UREÑA, PABLARKA
+  Total     238.46  
+
+COMPUESTA PALOQUEMAO-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30215     71.93      0.13   PALOQUEMAO       TA      PATIO CENTRO 2
+  30281     155.39     0.27   PALOQUEMAO       TA      PATIO CENTRO 2
+  30369     64.29      0.11   PALOQUEMAO       TA      PATIO CENTRO 2
+  30424     197.02     0.34   PALOQUEMAO       TA      PATIO CENTRO 2
+ TZ030488   330.62     0.58   PALOQUEMAO       TA      PATIO CENTRO 2
+  Total     819.25  
+
+COMPUESTA PALOQUEMAO 2-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30139     219.62     0.38   PALOQUEMAO 2       TA      PATIO CENTRO 2
+  30282     69.96      0.12   PALOQUEMAO 2       TA      PATIO CENTRO 2
+  30370     233.45     0.41   PALOQUEMAO 2       TA      PATIO CENTRO 2
+  Total     523.03  
+
+COMPUESTA TACHIRA 1-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30453     53.51      0.09   TACHIRA 1        TA      UREÑA, PABLARKA
+  Total     53.51   
+
+COMPUESTA TRAPICHE-TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30454     51.95      0.09    TRAPICHE        TA      UREÑA, PABLARKA
+  Total     51.95   
+
+COMPUESTA UREÑA -TA AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30284     379.20     0.66     UREÑA          TA      PATIO CENTRO 2
+  30421     481.15     0.84     UREÑA          TA      PATIO CENTRO 2
+ TZ030489   153.41     0.27     UREÑA          TA      PATIO CENTRO 2
+  Total    1013.76  
+
+COMPUESTA 1083-TB AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30097     209.18     0.36      1083          TB       DONJUANA 
+  Total     209.18  
+
+COMPUESTA 1994-TB AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30144     408.18     0.71      1994          TB      PATIO CENTRO 2
+  Total     408.18  
+
+COMPUESTA 849-TB AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30141     74.61      0.13      849           TB      PATIO CENTRO 2
+  30217     30.91      0.05      849           TB      PATIO CENTRO 2
+  30285     65.86      0.11      849           TB      PATIO CENTRO 2
+  30372     61.69      0.11      849           TB      PATIO CENTRO 2
+  Total     233.07  
+
+COMPUESTA 850-TB AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30142     29.19      0.05      850           TB      PATIO CENTRO 2
+  30286     88.93      0.15      850           TB      PATIO CENTRO 2
+  Total     118.12  
+
+COMPUESTA BUENOS AIRES 1-TB AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30098     564.36     0.98   BUENOS AIRES 1       TB       DONJUANA 
+  30218     45.19      0.08   BUENOS AIRES 1       TB      PATIO CENTRO 2
+  30246     47.59      0.08   BUENOS AIRES 1       TB       DONJUANA 
+  30288     121.55     0.21   BUENOS AIRES 1       TB      PATIO CENTRO 2
+  30341     75.54      0.13   BUENOS AIRES 1       TB       DONJUANA 
+  30373     88.92      0.15   BUENOS AIRES 1       TB      PATIO CENTRO 2
+  30425     59.79      0.1    BUENOS AIRES 1       TB      PATIO CENTRO 2
+ TZ030491   15.69      0.03   BUENOS AIRES 1       TB      PATIO CENTRO 2
+  Total    1018.63  
+
+COMPUESTA DONJUANA-TB AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30143     316.61     0.55    DONJUANA        TB      PATIO CENTRO 2
+  30287     95.05      0.17    DONJUANA        TB      PATIO CENTRO 2
+  30374     29.47      0.05    DONJUANA        TB      PATIO CENTRO 2
+ TZ030490   60.53      0.11    DONJUANA        TB      PATIO CENTRO 2
+  Total     501.66  
+
+COMPUESTA 1043-TC AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30136     81.88      0.14      1043          TC      PATIO CENTRO 2
+  30210     191.30     0.33      1043          TC      PATIO CENTRO 2
+  30278     65.59      0.11      1043          TC      PATIO CENTRO 2
+  30365     33.29      0.06      1043          TC      PATIO CENTRO 2
+  30419     49.82      0.09      1043          TC      PATIO CENTRO 2
+ TZ030486   31.17      0.05      1043          TC      PATIO CENTRO 2
+  Total     453.05  
+
+COMPUESTA 1988-TC AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30137     250.98     0.44      1988          TC      PATIO CENTRO 2
+  30211     90.09      0.16      1988          TC      PATIO CENTRO 2
+  30279     221.51     0.39      1988          TC      PATIO CENTRO 2
+  30366     111.63     0.19      1988          TC      PATIO CENTRO 2
+  30420     24.33      0.04      1988          TC      PATIO CENTRO 2
+  Total     698.54  
+
+COMPUESTA 1991-TC AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30132     16.58      0.03      1991          TC      PATIO BONITO
+  30207     33.60      0.06      1991          TC      PATIO BONITO
+  30274     16.43      0.03      1991          TC      PATIO BONITO
+ TZ030485   32.73      0.06      1991          TC      PATIO BONITO
+  Total     99.34   
+
+COMPUESTA 979-TC AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30133     17.43      0.03      979           TC      PATIO BONITO
+  30275     50.87      0.09      979           TC      PATIO BONITO
+  30362     33.48      0.06      979           TC      PATIO BONITO
+  Total     101.78  
+
+COMPUESTA ORQUIDEA GUAYABO-TC AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30134     210.67     0.37   ORQUIDEA GUAYABO       TC      PATIO CENTRO 2
+  30208     178.28     0.31   ORQUIDEA GUAYABO       TC      PATIO CENTRO 2
+  30276     206.75     0.36   ORQUIDEA GUAYABO       TC      PATIO CENTRO 2
+  30363     111.34     0.19   ORQUIDEA GUAYABO       TC      PATIO CENTRO 2
+  Total     707.04  
+
+COMPUESTA ORQUIDEA LEON -TC AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30135     161.23     0.28   ORQUIDEA LEON        TC      PATIO CENTRO 2
+  30209     122.54     0.21   ORQUIDEA LEON        TC      PATIO CENTRO 2
+  30277     199.33     0.35   ORQUIDEA LEON        TC      PATIO CENTRO 2
+  30364     88.09      0.15   ORQUIDEA LEON        TC      PATIO CENTRO 2
+  Total     571.19  
+
+COMPUESTA PATIO BONITO -TC AZ
+
+    TZ       VOL        %        COD          MAT         PAT    
+  30212     399.12     0.69   PATIO BONITO        TC      PATIO CENTRO 2
+  Total     399.12  
+
