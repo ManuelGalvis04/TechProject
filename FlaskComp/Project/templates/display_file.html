@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contenido procesado</title>
+</head>
+<body>
+    <h1>Contenido procesado</h1>
+    <pre>{{ content }}</pre> <!-- Muestra el contenido procesado -->
+
+    <h2>Enviar por correo</h2>
+    <form action="/send_email" method="POST">
+        <label for="email">Correo electrónico destinatario:</label>
+        <input type="email" id="email" name="email" required>
+        <input type="hidden" name="file_name" value="{{ file_name }}"> <!-- Pasar el nombre del archivo -->
+        <br><br>
+        <button type="submit">Enviar correo</button>
+    </form>
+</body>
+</html>
