@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contenido procesado</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+
+        .email-container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .email-header {
+            padding: 15px;
+            border-bottom: 1px solid #ddd;
+            background-color: #f1f1f1;
+            font-size: 14px;
+        }
+
+        .email-header h2 {
+            margin: 0;
+            font-size: 16px;
+            color: #333;
+            font-weight: 600;
+        }
+
+        .email-body {
+            padding: 20px;
+        }
+
+        .email-body pre {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 14px;
+            color: #444;
+        }
+
+        .email-footer {
+            padding: 15px;
+            border-top: 1px solid #ddd;
+            background-color: #f9f9f9;
+            text-align: right;
+        }
+
+        .email-footer button {
+            background-color: #0078d4;
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: background-color 0.3s ease;
+        }
+
+        .email-footer button:hover {
+            background-color: #005a9e;
+        }
+
+        .label {
+            font-weight: bold;
+            color: #555;
+            margin-right: 10px;
+        }
+
+        .email-info {
+            margin-bottom: 20px;
+            color: #555;
+            font-size: 12px;
+        }
+
+        .email-info span {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="email-header">
+            <h2>{{ subject }}</h2>
+        </div>
+        <div class="email-body">
+            <div class="email-info">
+                <p><span>De:</span> {{ from_email }}</p>
+                <p><span>Para:</span> {{ to_email }}</p> <!-- Correo fijo mostrado -->
+                <p><span>Asunto:</span> {{ subject }}</p>
+            </div>
+
+            <pre>{{ content }}</pre>
+        </div>
+        <div class="email-footer">
+            <form action="/send_email" method="POST">
+                <input type="hidden" name="file_name" value="{{ file_name }}">
+                <button type="submit">Enviar correo</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
